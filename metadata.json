@@ -1,0 +1,6 @@
+{
+  "name": "المرافق الإسلامي الشامل",
+  "description": "تطبيق إسلامي ذكي شامل بدون إنترنت مع ساعة مواقيت الصلاة نصف الدائرية، المصحف، الأذكار، المسبحة، ومكتبة الحديث",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
